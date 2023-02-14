@@ -5,4 +5,6 @@ print(get_perimeter(5))
 #some text 111
 #jj
 
+
+print("hello")
 print(1237878)
